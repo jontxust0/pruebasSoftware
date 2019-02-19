@@ -1,8 +1,19 @@
 .main{
-    width: 960px;
+	background-color:grey;
+    width:100%;
 }
 
 img{
     width: 400px;
     float: left;
+    margin:10px;
+}
+p{
+font-family:arial;
+}
+h1{
+text-align:center;
+}
+li{
+font-family:arial;
 }
